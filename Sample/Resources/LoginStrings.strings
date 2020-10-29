@@ -1,0 +1,13 @@
+/* 
+  LoginStrings.strings
+  Sample
+
+  Created by Pericles Junor on 16/10/20.
+  Copyright © 2020 Pericles Jr. All rights reserved.
+*/
+
+"topText" = "Here is the top text to be shown.";
+"middleText" = "Here is the middle text to be shown.";
+"bottomText" = "Here is the bottom text to be shown.";
+
+

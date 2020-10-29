@@ -1,0 +1,12 @@
+/* 
+  LoginAccessibilityStrings.strings
+  Sample
+
+  Created by Pericles Junor on 16/10/20.
+  Copyright © 2020 Pericles Jr. All rights reserved.
+*/
+
+"topAccessibilityText" = "Here is the top accessibility text";
+"middleAccessibilityText" = "Here is the middle accessibility text";
+"bottomAccessibilityText" = "Here is the bottom accessibility text";
+
